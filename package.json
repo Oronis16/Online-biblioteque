@@ -1,0 +1,22 @@
+{
+  "name": "online-biblioteque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oronis16/Online-biblioteque.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oronis16/Online-biblioteque/issues"
+  },
+  "homepage": "https://github.com/Oronis16/Online-biblioteque#readme",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}

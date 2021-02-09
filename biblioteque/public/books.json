@@ -1,0 +1,22 @@
+[{
+    "title": "Harry Potter & The Philosopher's Stone",
+    "image": "./img/HP1.jpg",
+    "writer": "J. K. Rowling",
+    "country": "United Kingdom",
+    "genre": "Fantasy",
+    "publication": "26 June 1997",
+    "plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "state": true
+  },
+  {
+    "title": "Harry Potter & The Chamber of Secrets",
+    "image": "./img/HP2.jpg",
+    "writer": "J. K. Rowling",
+    "country": "United Kingdom",
+    "genre": "Fantasy",
+    "publication": "2 July 1998",
+    "plot": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+    "state": false
+  }
+]
+

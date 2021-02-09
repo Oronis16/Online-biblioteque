@@ -1,0 +1,58 @@
+.bookCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: black solid 2px;
+  margin: 20px 0px;
+  width: 50vw;
+}
+
+.container {
+  display: flex;
+  margin: 0px 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgbox {
+  margin-right: 15px;
+  border: solid darkblue 4px;
+}
+
+li {
+  padding: 4px;
+}
+
+.rowData{
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px
+}
+
+button {
+  width: 10vw;
+  margin: 20px;
+  height: 4vh;
+}
+
+div .btn-box {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: darkblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+}
+
+p {
+  margin-right: 10px
+}
+
+input {
+  margin-right: 10px;
+  height: 3vh
+}
